@@ -1,0 +1,2 @@
+# wxcloudrun-websocket-master
+微信云托管部署的服务器。功能是通过websocket接收消息并广播所有接收的消息
