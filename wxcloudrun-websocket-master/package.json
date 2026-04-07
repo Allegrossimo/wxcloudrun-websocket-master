@@ -1,0 +1,12 @@
+{
+  "name": "wxcloudrun-websocket-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Allegrossimo",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2"
+  }
+}
